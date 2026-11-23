@@ -4,7 +4,7 @@
 <h3>ENTER YOUR NAME</h3> Manobala R
 <h3>ENTER YOUR REGISTER NO</h3> 212225230167
 <h3>EX. NO</h3> 03
-<h3>DATE</h3>
+<h3>DATE</h3>10.11.2026
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
 
